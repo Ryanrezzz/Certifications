@@ -7,10 +7,10 @@ This repository contains my verified professional certifications in Python, Web 
 
 # Web Development
 •⁠  ⁠*The Complete Full Stack Web Development Bootcamp* – Udemy  
-  [Certificate PDF](webDevelopment.pdf)
+  [Certificate PDF](https://github.com/Ryanrezzz/Certifications/blob/main/WebDevelopment/webDevelopment.pdf)
 
 # Artificial Intelligence
 •⁠  ⁠*Artificial Intelligence Workshop* – Techfest, IIT Bombay (in collaboration with GUVI-HCL)  
-  [Certificate PDF]([AI_Workshop_IITB_Certificate.pdf](https://github.com/Ryanrezzz/Certifications/blob/main/AI_Workshop_IITB/AI_Workshop_IITB_Certificate.pdf))
+  [Certificate PDF](https://github.com/Ryanrezzz/Certifications/blob/main/AI_Workshop_IITB/AI_Workshop_IITB_Certificate.pdf)
   
 >⁠ All certificates are publicly available and verified.
